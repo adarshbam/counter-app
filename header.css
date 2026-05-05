@@ -5,6 +5,7 @@
   --bg: #ffffff;
   --text: #0f1724;
   --muted: #6b7280;
+  --gray: #333;
 }
 * {
   box-sizing: border-box;
